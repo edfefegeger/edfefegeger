@@ -8,7 +8,7 @@ Young Full-Stack developer looking to continuously develop and reach new heights
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/edfefegeger)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/edfefegeger&show_icons=true)  
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=https://github.com/edfefegeger&show_icons=true](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edfefegeger&theme=github_dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/edfefegeger)  
 
