@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Artem
+### Hi there 👋
 #### Developer C++ ӏ C# ӏ Qt ӏ Qml ӏ C ӏ Python ӏ JS ӏ HTML ӏ React ӏ FullStack
 Young Full-Stack developer looking to continuously develop and reach new heights.
 
